@@ -48,14 +48,14 @@ Many classes scored around 0.995 mAP50 (healthy, Fusarium wilt, banana aphids, b
 
 ```
 .
+.
 ├── README.md
 ├── notebooks/
 │   ├── 01_yolov12_potato.ipynb
 │   ├── 02_yolov12_cotton.ipynb
 │   ├── 03_yolov8_banana.ipynb
 │   └── 04_yolov12_merged_28_classes.ipynb
-├── results/          # training curves, confusion matrix, predictions
-└── requirements.txt  # optional
+└── results/          # training curves, confusion matrix, predictions
 ```
 
 ## Quick start
@@ -114,7 +114,7 @@ Datasets were assembled and annotated on [Roboflow](https://roboflow.com) and ex
 - **Banana:** nutrient deficiencies, viral and fungal diseases, pests and healthy plants
 - **Merged:** all of the above, 28 classes
 
-Add your own dataset links here: **[ROBOFLOW LINKS]**
+Add your own dataset links here: Dataset links are available on request
 
 ## Notes
 
